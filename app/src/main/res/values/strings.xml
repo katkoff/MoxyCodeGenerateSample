@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoxyCodeGenerate</string>
+    <string name="main_old_text">Click on me please!</string>
+    <string name="main_new_text">Thank you!</string>
+</resources>
